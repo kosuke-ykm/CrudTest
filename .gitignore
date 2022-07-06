@@ -39,4 +39,4 @@ build/
 .DS_Store
 
 ### Add ###
-**/src/main/webapp/WEB=INF/lib
+**/src/main/webapp/WEB-INF/lib/
